@@ -1,5 +1,4 @@
-### Hi there 👋
-Hi 👋, I'm Harshal Kale
+### Hi there 👋, I'm Yogesh Kumar
 
 <!--
 **yogeshk1234/yogeshk1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
