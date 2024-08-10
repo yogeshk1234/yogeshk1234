@@ -16,10 +16,23 @@
 
 
 
+## 🎯 Git Hhub Trophies
+
+Welcome to my GitHub profile! As a passionate Data Analyst, I love turning data into actionable insights.
+
+![Data Analyst](https://camo.githubusercontent.com/f841ccd243e6befc025009bf0d147217661e55ad48c1c34ddef4ac5e5828047a/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6861727368616c6b616c6530393131267468656d653d7261646963616c266e6f2d6672616d653d74727565266e6f2d62673d66616c7365266d617267696e2d773d34)
+
+### 🔧 Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?logo=sqlite&logoColor=white&style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/-PowerBI-4479A1?logo=powerbi&logoColor=white&style=for-the-badge)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+
+### 🌟 Achievements
+- Certified Data Analyst by [Certifying Body]
+- Completed [Relevant Course] with [Score]
 
 
-
-A passionate Full-Stack developer from India
 
 <!--
 **yogeshk1234/yogeshk1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
