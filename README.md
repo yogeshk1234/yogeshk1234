@@ -19,13 +19,13 @@
 
 🌱 I’m currently learning **MERN stack** (MongoDB, Express.js, React, Node.js).
 
-👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/yogesh-kumar-9618a21b5/)** & **[GitHub]()**.
+👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/yogesh-kumar-9618a21b5/)** & **[GitHub](https://github.com/yogeshk1234)**.
 
 📫 Reach me at [yogeshkashyap9781@gmail.com](mailto:yogeshkashyap9781@gmail.com).
 
 💬 Open for your suggestions and feedback.
 
-📄 Download my [Resume](https://drive.google.com/drive/u/1/folders/18ImGHR7QvOuKv7Qcyie_Z0SHQeAw4i7f).
+📄 Download my [Resume](https://drive.google.com/drive/u/1/folders/10HbBs8SXX52DNi6bYWqmtTduHLkTd9xU).
 
 
 
