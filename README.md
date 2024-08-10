@@ -60,9 +60,9 @@
 
 
 
-### 🌟 Achievements
-- Certified Data Analyst by []
-- Completed [Relevant Course] with [Score]
+# 🌟 Achievements
+- Certified Data Analyst by **Preleaf by Masai**
+- Completed **Data Alalysis** with **100% Score**
 
 # 🏅 GitHub Trophies
 
@@ -70,6 +70,14 @@
 Welcome to my GitHub profile! As a passionate Data Analyst, I love turning data into actionable insights.
 
 ![Data Analyst](https://camo.githubusercontent.com/f841ccd243e6befc025009bf0d147217661e55ad48c1c34ddef4ac5e5828047a/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6861727368616c6b616c6530393131267468656d653d7261646963616c266e6f2d6672616d653d74727565266e6f2d62673d66616c7365266d617267696e2d773d34)
+
+
+
+## 📈 GitHub Activity Graph
+
+[![Yogesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogeshk1234&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
 
 
 <!--
