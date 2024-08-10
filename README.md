@@ -15,6 +15,7 @@
 
 ## 🚀 About Me
 
+![Animated Line](https://camo.githubusercontent.com/8e5a0b0c4e42dfe72e6e48ee1056b634c08ffc52cdc5a0991e4be8814bf9ed17/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303338372e676966)
 
 
 🔭 I’m currently working on **Data Analyst**.
@@ -28,6 +29,8 @@
 💬 Open for your suggestions and feedback.
 
 📄 Download my [Resume](https://drive.google.com/drive/u/1/folders/10HbBs8SXX52DNi6bYWqmtTduHLkTd9xU).
+
+![Animated Line](https://camo.githubusercontent.com/8e5a0b0c4e42dfe72e6e48ee1056b634c08ffc52cdc5a0991e4be8814bf9ed17/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303338372e676966)
 
 
 
