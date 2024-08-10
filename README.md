@@ -15,9 +15,11 @@
 
 ## 🚀 About Me
 
+
+
 🔭 I’m currently working on **Data Analyst**.
 
-🌱 I’m currently learning **Machine Learning and Generative AI**.
+🌱 I’m currently learning **Machine Learning and Generative AI**.             
 
 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/yogesh-kumar-9618a21b5/)** & **[GitHub](https://github.com/yogeshk1234)**.
 
@@ -26,6 +28,12 @@
 💬 Open for your suggestions and feedback.
 
 📄 Download my [Resume](https://drive.google.com/drive/u/1/folders/10HbBs8SXX52DNi6bYWqmtTduHLkTd9xU).
+
+
+
+
+
+
 
 
 # 🏆 Technical Skills:
@@ -59,10 +67,10 @@
 
 ## 🛠️ My Favorite Tech Stack
 
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshk1234&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://camo.githubusercontent.com/3354125e88ef539ca2ec8ba5b0324a9122f9da4b6b23ce286e9a7c2aecf31759/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d796f676573686b31323334267468656d653d726561637426626f726465725f7261646975733d342e362673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374266c616e67735f636f756e743d36" 
+  alt="Python" width="360" height="200"/>
+</p>
 </div>
 
 
