@@ -75,31 +75,35 @@
 
 ## 🛠️ My Favorite Tech Stack
 
+
+
 <p align="center">
-  <img src="https://camo.githubusercontent.com/3354125e88ef539ca2ec8ba5b0324a9122f9da4b6b23ce286e9a7c2aecf31759/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d796f676573686b31323334267468656d653d726561637426626f726465725f7261646975733d342e362673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374266c616e67735f636f756e743d36" 
-  alt="Python" width="360" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshk1234&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=6" 
+  alt="Top Languages" width="360" height="200"/>
 </p>
-</div>
+
 
 
 # 🌟 Achievements
 - Certified Data Analyst by **Preleaf by Masai**
-- Completed **Data Alalysis** with **100% Score**
+- Completed **Data Analysis** with **100% Score**
 
 # 🏅 GitHub Trophies
 
 
 Welcome to my GitHub profile! As a passionate Data Analyst, I love turning data into actionable insights.
 
-![Data Analyst](https://camo.githubusercontent.com/f841ccd243e6befc025009bf0d147217661e55ad48c1c34ddef4ac5e5828047a/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6861727368616c6b616c6530393131267468656d653d7261646963616c266e6f2d6672616d653d74727565266e6f2d62673d66616c7365266d617267696e2d773d34)
-
-
+![Data Analyst](https://github-profile-trophy.vercel.app/?username=harshalkale0911&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 
 ## 📈 GitHub Activity Graph
 
-[![Yogesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogeshk1234&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
+
+[![Yogesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogeshk1234&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 
 
